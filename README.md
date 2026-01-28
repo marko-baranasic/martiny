@@ -22,6 +22,8 @@ pozdrav("Svijete")
 | Marko | Java | Senior |
 
 > Ovo je citat.
+[Ja](LICEMSE.md)
+[Ti](CHANGELOG.md)
 
 
 
