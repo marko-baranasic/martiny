@@ -24,7 +24,7 @@ pozdrav("Svijete")
 > Ovo je citat.
 [Ja](LICEMSE.md)
 [Ti](CHANGELOG.md)
-[![UX Proces](https://img.youtube.com/vi/0J2QdDbelmY/0.jpg)](https://www.youtube.com/watch?v=0J2QdDbelmY)
+[![UX Proces]([https://img.youtube.com/vi/0J2QdDbelmY/0.jpg](https://i.ytimg.com/an_webp/7q9J_6tolfI/mqdefault_6s.webp?du=3000&sqp=CNb36MsG&rs=AOn4CLBbPUW_9HLbCrhX8iwBn8qNZ4YABQ))](https://www.youtube.com/watch?v=0J2QdDbelmY)
 
 
 
