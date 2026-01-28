@@ -26,7 +26,7 @@ pozdrav("Svijete")
 [Ti](CHANGELOG.md)
 [![UX Proces]([https://img.youtube.com/vi/0J2QdDbelmY/0.jpg](https://i.ytimg.com/an_webp/7q9J_6tolfI/mqdefault_6s.webp?du=3000&sqp=CNb36MsG&rs=AOn4CLBbPUW_9HLbCrhX8iwBn8qNZ4YABQ))](https://www.youtube.com/watch?v=0J2QdDbelmY)
 
-
+:smile:
 
 
 Temelji hrvatske države nalaze se u razdoblju ranoga srednjeg vijeka kada su Hrvati osnovali svoje dvije kneževine: Panonsku i Primorsku Hrvatsku. Potom pod vladarskom dinastijom Trpimirović Hrvatska postaje jedinstvena kneževina, a 7. lipnja 879. godine za vrijeme vladavine kneza Branimira prvi put i nezavisna država. Godine 925. pod vodstvom kralja Tomislava Hrvatska postaje kraljevstvo. Posljednji hrvatski kralj bio je Petar Snačić, a nakon njega Hrvatska je ušla u personalnu uniju s Ugarskom na temelju ugovora poznata kao Pacta conventa sklopljena 1102. godine. Tim je ugovorom Hrvatska zadržala sve značajke države, jedino je kralj bio zajednički. Godine 1527., zbog Osmanlijskog napada na Hrvatsku, na hrvatsko prijestolje dolazi dinastija Habsburg. Tijekom Habsburške vladavine Hrvatska je također zadržala sve državnopravne značajke što se najviše ogleda Pragmatičkom sankcijom iz 1712. godine te Hrvatsko-ugarskom nagodbom iz 1868. godine.
